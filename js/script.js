@@ -97,9 +97,10 @@ function ConvertingString() {
          let intoNumber = parseInt(num);
          let intoFlouting = parseFloat(num)
     // num = Number(num)
-    // let numr = num.toFixed(2);
+    //  let numr = num.toFixed(2);
 
-    // console.log(num);
+
+    //
     // console.log(numr);
     console.log(typeof num);
 
