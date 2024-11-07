@@ -128,8 +128,7 @@ function ControlingLentgh() {
    
     
 }
-
-//  calculate GST 
+//  calculate GST -----
 function gst() {
         let cost = document.getElementById("input").value ;
     if(!cost)
@@ -137,7 +136,6 @@ function gst() {
         alert("Please Enter your Total Cost ...!")
         return
     }
-
     cost = Number(cost);
     let texInput = +prompt("enter your TAX : ");
 let tax = cost * texInput/100 ;
