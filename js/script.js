@@ -128,7 +128,7 @@ function ControlingLentgh() {
    
     
 }
-//  calculate GST -----
+//  calculate GST ----------
 function gst() {
         let cost = document.getElementById("input").value ;
     if(!cost)
