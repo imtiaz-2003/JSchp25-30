@@ -16,7 +16,7 @@ function round() {
 
 }
 
-// ciel a Number function
+// ciel a Number function------------
 
 function ciel() {
     let number = document.getElementById("input").value;
